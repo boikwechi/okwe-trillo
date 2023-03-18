@@ -1,6 +1,4 @@
 node_modules
 sass
 .parcel-cache
-img
-css
 package-lock.json
